@@ -1,0 +1,2 @@
+
+We'll use the uploaded dashboard design as a reference for our implementation.
